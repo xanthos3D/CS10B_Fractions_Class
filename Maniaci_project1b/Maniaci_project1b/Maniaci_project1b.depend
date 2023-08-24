@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1586562526 source:e:\project 1\maniaci_project1b\maniaci_project1b\fraction_client.cpp
+	<iostream>
+	"fraction.h"
+	<cassert>
+
+1586562526 e:\project 1\maniaci_project1b\maniaci_project1b\fraction.h
+
+1586562526 source:e:\project 1\maniaci_project1b\maniaci_project1b\main.cpp
+	<iostream>
+	"Fraction.h"
+
+1586562702 source:e:\project 1\maniaci_project1b\maniaci_project1b\fraction.cpp
+	<iostream>
+	"fraction.h"
+	<cassert>
+
